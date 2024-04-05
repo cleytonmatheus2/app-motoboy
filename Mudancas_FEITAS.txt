@@ -1,0 +1,13 @@
+
+
+
+Para configuração de Geolocalização, foram adicionados as seguintes linhas.
+
+Em android/build.gradle:
+playServicesLocationVersion = "21.0.1" // inside buildscript.ext
+
+Em android/app/build.gradle:
+Add this line or upgrade the version to 21.0.1 if older version already exists=>
+
+implementation 'com.google.android.gms:play-services-location:21.0.1' 
+**dentro de dependencies**
