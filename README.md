@@ -1,8 +1,7 @@
-Este app é uma extensão do projeto do sistema de delivery SrMenu
 
-# Projeto
+# Projeto - AppMotoboy
 
->**Note**: Este projeto foi pensado para integrar ao projeto pessoal SrMenu, o aplicativo voltado a delivery, gestão e cardápio digital. e [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+>**NOTA**: Este projeto foi pensado para integrar ao projeto pessoal SrMenu, o aplicativo voltado a delivery, gestão e cardápio digital. 
 
 ## Rotas mais eficazes
 
