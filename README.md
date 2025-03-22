@@ -29,3 +29,4 @@ Estamos felizes em apresentar as novas mudanças. :partying_face:
 
 - Rotas otimizadas.
 - Gestão de entregas.
+- Carteira de ganhos.
