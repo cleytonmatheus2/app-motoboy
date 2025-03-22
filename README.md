@@ -11,14 +11,14 @@ O login é essencial para a identificação do motoboy.
 ## Rotas mais eficazes
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 
-![Image](https://github.com/user-attachments/assets/812daad8-c249-4100-8aaa-e34a0308db51)
+<img src="https://github.com/user-attachments/assets/812daad8-c249-4100-8aaa-e34a0308db51" width="600" />
+
 
 ## Rotas mais eficazes
 Nossa intregração à api do OpenStreetsMaps roteiriza rotas mais curtas, gerando economia e eficiência. &nbsp;&nbsp;&nbsp;
 ![Image](https://github.com/user-attachments/assets/75b71ecc-39f6-4f44-816c-ee624d82016f)
 
 
-<img src="https://github.com/user-attachments/assets/75b71ecc-39f6-4f44-816c-ee624d82016f" width="200" />
 
 
 ### For Android
