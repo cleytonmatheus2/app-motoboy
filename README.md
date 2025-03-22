@@ -1,7 +1,7 @@
 
 # Projeto - AppMotoboy
 
->**NOTA**: Este projeto foi pensado para integrar ao projeto pessoal SrMenu, o aplicativo voltado a delivery, gestão e cardápio digital. 
+>**NOTA**: Este projeto foi pensado para integrar ao projeto SrMenu, sistema voltado a delivery, gestão e cardápio digital. 
 
 ## Login
 O login é essencial para a identificação do motoboy.
