@@ -18,6 +18,9 @@ Nossa intregração à api do OpenStreetsMaps roteiriza rotas mais curtas, geran
 ![Image](https://github.com/user-attachments/assets/75b71ecc-39f6-4f44-816c-ee624d82016f)
 
 
+<img src="https://github.com/user-attachments/assets/75b71ecc-39f6-4f44-816c-ee624d82016f" width="200" />
+
+
 ### For Android
 
 
