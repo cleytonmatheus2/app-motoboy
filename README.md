@@ -19,18 +19,9 @@ Nossa intregração à api do OpenStreetsMaps roteiriza rotas mais curtas, geran
 ![Image](https://github.com/user-attachments/assets/75b71ecc-39f6-4f44-816c-ee624d82016f)
 
 
-
-
-### For Android
-
-
-
-
-
-
    
 
-## Congratulations! :tada:
+## Versão 1.0.0 :tada:
 
 You've successfully run and modified your React Native App. :partying_face:
 
