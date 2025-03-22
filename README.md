@@ -3,12 +3,18 @@
 
 >**NOTA**: Este projeto foi pensado para integrar ao projeto pessoal SrMenu, o aplicativo voltado a delivery, gestão e cardápio digital. 
 
-## Rotas mais eficazes
-
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+## Login
+O login é essencial para a identificação do motoboy.
 
 ![Image](https://github.com/user-attachments/assets/a0cc652d-76ec-4186-8c39-0c95d1116fdf)
+
+## Rotas mais eficazes
+First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+
 ![Image](https://github.com/user-attachments/assets/812daad8-c249-4100-8aaa-e34a0308db51)
+
+## Rotas mais eficazes
+First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 ![Image](https://github.com/user-attachments/assets/75b71ecc-39f6-4f44-816c-ee624d82016f)
 
 
