@@ -14,7 +14,7 @@ First, you will need to start **Metro**, the JavaScript _bundler_ that ships _wi
 ![Image](https://github.com/user-attachments/assets/812daad8-c249-4100-8aaa-e34a0308db51)
 
 ## Rotas mais eficazes
-Nossa intregração à api do OpenStreetsMaps roteiriza rotas mais curtas, gerando economia e eficiência.
+Nossa intregração à api do OpenStreetsMaps roteiriza rotas mais curtas, gerando economia e eficiência. &nbsp;
 ![Image](https://github.com/user-attachments/assets/75b71ecc-39f6-4f44-816c-ee624d82016f)
 
 
