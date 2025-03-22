@@ -1,8 +1,8 @@
 Este app é uma extensão do projeto do sistema de delivery SrMenu
 
-# Getting Started
+# Projeto
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+>**Note**: Este projeto foi pensado para integrar ao projeto pessoal SrMenu, o aplicativo voltado a delivery, gestão e cardápio digital. e [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Rotas mais eficazes
 
