@@ -11,7 +11,7 @@ O login é essencial para a identificação do motoboy.
 ## Rotas mais eficazes
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 
-<img src="https://github.com/user-attachments/assets/812daad8-c249-4100-8aaa-e34a0308db51" width="600" />
+<img src="https://github.com/user-attachments/assets/812daad8-c249-4100-8aaa-e34a0308db51" width="550" />
 
 
 ## Rotas mais eficazes
