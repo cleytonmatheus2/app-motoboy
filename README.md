@@ -23,9 +23,9 @@ Nossa intregração à api do OpenStreetsMaps roteiriza rotas mais curtas, geran
 
 ## Versão 1.0.0 :tada:
 
-You've successfully run and modified your React Native App. :partying_face:
+Estamos felizes em apresentar as novas mudanças. :partying_face:
 
-### Now what?
+### O que tem de novo?
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+- Rotas otimizadas.
+- Gestão de entregas.
