@@ -4,23 +4,14 @@ Este app é uma extensão do projeto do sistema de delivery SrMenu
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-## Step 1: Start the Metro Server
+## Rotas mais eficazes
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+![Image](https://github.com/user-attachments/assets/a0cc652d-76ec-4186-8c39-0c95d1116fdf)
+![Image](https://github.com/user-attachments/assets/812daad8-c249-4100-8aaa-e34a0308db51)
+![Image](https://github.com/user-attachments/assets/75b71ecc-39f6-4f44-816c-ee624d82016f)
 
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
 ### For Android
 
